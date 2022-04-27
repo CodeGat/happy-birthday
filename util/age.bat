@@ -217,6 +217,6 @@ echo. life^> set gerard_age=24
 echo. life^> Done!
 echo. life^> set gerard_kingliness_lvl=9999999999999999999999999999999999999999999
 echo. life^> ....
-pause
+ping localhost -n 4 > nul && cls
 
 

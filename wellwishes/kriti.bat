@@ -963,36 +963,36 @@ echo. kriti@pc^> Happy borkday pork baozi soup dumpling, I hope you have the bes
 if %l% gtr 0 echo. (Also don't forget to read the other well wishes now in the repo)
 if %l% gtr 2 echo. (And yes this one goes on forever too)
 set /a l=%l%+1
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 01
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 02
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 03
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 04
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 05
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 06
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 07
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 08
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 09
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 0a
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 0b
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 0c
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 0d
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 0e
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 color 0f
-ping localhost -n 1 > nul
+ping localhost -n 2 > nul
 cls
 goto loop
